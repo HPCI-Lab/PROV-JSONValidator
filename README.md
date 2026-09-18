@@ -2,7 +2,7 @@
 
 A CLI script to validate W3C PROV-JSON files against structural rules, type requirements, prefix declarations, and cross-references.
 
-## Requirements
+## Requirements
 
 Python 3.7+ (uses standard library only, no external dependencies).
 
